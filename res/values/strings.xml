@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cantina Senai</string>
+    <string name="txtIdentidade">Matricula</string>
+    <string name="txtSenha">Senha</string>
+    <string name="btCardapio">Cardápio</string>
+    <string name="btProdutos">Visualizar Produtos</string>
+    <string name="titulo">Cantina Senai</string>
+    <string name="tituloCliente">Cliente</string>
+    <string name="NomeCliente">Nome não definido</string>
+    <string name="Descricao">Descrição</string>
+    <string name="tituloMenu">Menu</string>
+    <string name="tituloDia">Escolha um dia</string>
+    <string name="txtTitulo">Pão Italiano com manteiga</string>
+    <string name="txtComposicao">torrada com tomate, alho, pimenta e parmesão</string>
+    <string name="txtPreco">7,90</string>
+    <string name="btSalgado">Salgados</string>
+    <string name="btDoces">Doces</string>
+    <string name="btSegunda">Segunda-Feira</string>
+    <string name="tituloCardapio">Cardápio</string>
+    <string name="btTerca">Terça-Feira</string>
+    <string name="btQuarta">Quarta-Feira</string>
+    <string name="btQuinta">Quinta-Feira</string>
+    <string name="btSexta">Sexta-Feira</string>
+    <string name="txtDescricao">Escolha um dia</string>
+    <string name="CardapioTitulo">Dia Exemplo</string>
+    <string name="btBebidas">Refrigerantes e Bebidas</string>
+    <string name="btTudo">Tudo</string>
+    <string name="txtAviso">O cardápio pode sofrer alteração</string>
+    <string name="txtDescricaoProduto">Busque produtos disponiveis</string>
+    <string name="txtEscolha">Escolha um dia para mostrar o cardápio</string>
+</resources>

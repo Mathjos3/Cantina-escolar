@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Croissant de Presunto e Queijo"
+        android:textAlignment="viewStart"
+        android:textSize="30sp" />
+
+
+    <TextView
+        android:id="@+id/txtDescricao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salgado" />
+
+    <TextView
+        android:id="@+id/txtValidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="21"
+        android:text="Vence em : 01/07/2020 00:00:00" />
+
+    <TextView
+        android:id="@+id/txtPreco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="R$ 3.8"
+        android:textAlignment="textEnd"
+        android:textSize="24sp" />
+
+</LinearLayout>

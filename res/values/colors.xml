@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C1B1B</color>
+    <color name="colorPrimaryDark">#070707</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Branco">#FFFFFF</color>
+    <color name="BrancoBaixo">#F2F2F2</color>
+    <color name="LoginColorButton">#4486F9</color>
+    <color name="SemLoginButton">#F9AA43</color>
+    <color name="Hint">#E21841</color>
+    <color name="backgroud">#f2f2f2</color>
+    <color name="bgBotao">#FFAE59</color>
+    <color name="Prata">#4c4eff</color>
+</resources>
